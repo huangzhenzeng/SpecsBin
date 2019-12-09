@@ -1,0 +1,1 @@
+{"name":"FMDB","version":"2.6.2","summary":"FMDB","description":"FMDB","homepage":"FMDB","license":"MIT","authors":"dave.huang@jinfuzi.com","platforms":{"ios":"8.0"},"ios":{"vendored_frameworks":"FMDB.framework"},"source":{"http":"http://10.3.20.214:8888/gxq/FMDB/2.6.2/FMDB.zip","sha1":"9c9c6f01b161dd6c4b4cc8753b8060580af84395"}}

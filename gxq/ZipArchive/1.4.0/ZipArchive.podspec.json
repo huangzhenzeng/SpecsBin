@@ -1,0 +1,1 @@
+{"name":"ZipArchive","version":"1.4.0","summary":"ZipArchive","description":"ZipArchive","homepage":"ZipArchive","license":"MIT","authors":"dave.huang@jinfuzi.com","platforms":{"ios":"8.0"},"ios":{"vendored_frameworks":"ZipArchive.framework"},"source":{"http":"http://10.3.20.214:8888/gxq/ZipArchive/1.4.0/ZipArchive.zip","sha1":"0bdd79e5c5755eeef55e6e38d64f7c1d95bc71ef"}}

@@ -1,0 +1,1 @@
+{"name":"Masonry","version":"1.1.0","summary":"Masonry","description":"Masonry","homepage":"Masonry","license":"MIT","authors":"dave.huang@jinfuzi.com","platforms":{"ios":"8.0"},"ios":{"vendored_frameworks":"Masonry.framework"},"source":{"http":"http://10.3.20.214:8888/gxq/Masonry/1.1.0/Masonry.zip","sha1":"028bda94135afe9b76d0ced5243e74752f835543"}}

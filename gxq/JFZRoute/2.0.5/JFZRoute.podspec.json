@@ -1,0 +1,1 @@
+{"name":"JFZRoute","version":"2.0.5","summary":"JFZRouter.","description":"用于连接各个模块，进行各个模块之间的通讯。","homepage":"git@gitlab.jfz.net:iOS/JFZRoute","license":"MIT","authors":{"lbencs":"lbencs@hotmail.com"},"platforms":{"ios":"7.0"},"source":{"http":"http://10.3.20.214:8888/gxq/JFZRoute/2.0.5/JFZRoute.zip","sha1":"272b28711e45603a2c00617c70163c2f98e0b80b"}}

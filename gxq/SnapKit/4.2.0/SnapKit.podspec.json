@@ -1,0 +1,1 @@
+{"name":"SnapKit","version":"4.2.0","summary":"SnapKit","description":"SnapKit","homepage":"SnapKit","license":"MIT","authors":"dave.huang@jinfuzi.com","platforms":{"ios":"8.0"},"ios":{"vendored_frameworks":"SnapKit.framework"},"source":{"http":"http://10.3.20.214:8888/gxq/SnapKit/4.2.0/SnapKit.zip","sha1":"9da04b8ef8a28cebb71e768070445747cdd9cca0"}}

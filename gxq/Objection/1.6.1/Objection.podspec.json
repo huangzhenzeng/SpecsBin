@@ -1,0 +1,1 @@
+{"name":"Objection","version":"1.6.1","summary":"Objection","description":"Objection","homepage":"Objection","license":"MIT","authors":"dave.huang@jinfuzi.com","platforms":{"ios":"8.0"},"ios":{"vendored_frameworks":"Objection.framework"},"source":{"http":"http://10.3.20.214:8888/gxq/Objection/1.6.1/Objection.zip","sha1":"ff26b1f137825dd3fc2e3ca137a4c9336883e5ef"}}

@@ -1,0 +1,1 @@
+{"name":"GXQConfig","version":"1.0.4","summary":"滚雪球相关配置文件，如宏，消息定义，上报等","description":"滚雪球相关配置文件，如宏，消息定义，上报等","homepage":"https://github.com/<GITHUB_USERNAME>/GXQConfig","license":{"type":"MIT","file":"LICENSE"},"authors":{"dave.huang":"dave.huang@jinfuzi.com"},"platforms":{"ios":"7.0"},"source":{"http":"http://10.3.20.214:8888/gxq/GXQConfig/1.0.4/GXQConfig.zip","sha1":""}}

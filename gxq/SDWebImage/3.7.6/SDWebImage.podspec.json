@@ -1,0 +1,1 @@
+{"name":"SDWebImage","version":"3.7.6","summary":"SDWebImage","description":"SDWebImage","homepage":"SDWebImage","license":"MIT","authors":"dave.huang@jinfuzi.com","platforms":{"ios":"8.0"},"ios":{"vendored_frameworks":"SDWebImage.framework"},"source":{"http":"http://10.3.20.214:8888/gxq/SDWebImage/3.7.6/SDWebImage.zip","sha1":"99d00c71e378d16d0c16684021aa0bb4e9c1251f"}}

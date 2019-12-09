@@ -1,0 +1,1 @@
+{"name":"PNChart","version":"0.8.9","summary":"PNChart","description":"PNChart","homepage":"PNChart","license":"MIT","authors":"dave.huang@jinfuzi.com","platforms":{"ios":"8.0"},"ios":{"vendored_frameworks":"PNChart.framework"},"source":{"http":"http://10.3.20.214:8888/gxq/PNChart/0.8.9/PNChart.zip","sha1":"52c793831eb56e9ad5cdd77b2c8e24fdabf036bd"}}

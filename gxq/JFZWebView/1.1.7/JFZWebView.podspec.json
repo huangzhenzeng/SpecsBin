@@ -1,0 +1,1 @@
+{"name":"JFZWebView","version":"1.1.7","summary":"JFZWebView","description":"JFZWebView","homepage":"JFZWebView","license":"MIT","authors":"dave.huang@jinfuzi.com","platforms":{"ios":"8.0"},"ios":{"vendored_frameworks":"JFZWebView.framework"},"source":{"http":"http://10.3.20.214:8888/gxq/JFZWebView/1.1.7/JFZWebView.zip","sha1":"fc79a5ea26a5d1c3e93d7100b3acd96949ba9dc9"}}

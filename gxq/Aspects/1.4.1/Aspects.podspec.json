@@ -1,0 +1,1 @@
+{"name":"Aspects","version":"1.4.1","summary":"Aspects","description":"Aspects","homepage":"Aspects","license":"MIT","authors":"dave.huang@jinfuzi.com","platforms":{"ios":"8.0"},"ios":{"vendored_frameworks":"Aspects.framework"},"source":{"http":"http://10.3.20.214:8888/gxq/Aspects/1.4.1/Aspects.zip","sha1":"9f3e2fe5ab95ea840c9667a608a9ef09713624cf"}}

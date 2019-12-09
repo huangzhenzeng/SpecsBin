@@ -1,0 +1,1 @@
+{"name":"BSImageView","version":"1.0.2","summary":"BSImageView","description":"BSImageView","homepage":"BSImageView","license":"MIT","authors":"dave.huang@jinfuzi.com","platforms":{"ios":"8.0"},"ios":{"vendored_frameworks":"BSImageView.framework"},"source":{"http":"http://10.3.20.214:8888/gxq/BSImageView/1.0.2/BSImageView.zip","sha1":"42838bd5ddfa560845de4e364009def557490b8b"}}

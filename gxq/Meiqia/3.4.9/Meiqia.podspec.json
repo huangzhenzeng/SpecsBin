@@ -1,0 +1,1 @@
+{"name":"Meiqia","version":"3.4.9","summary":"Meiqia","description":"Meiqia","homepage":"Meiqia","license":"MIT","authors":"dave.huang@jinfuzi.com","platforms":{"ios":"8.0"},"ios":{"vendored_frameworks":"Meiqia.framework"},"source":{"http":"http://10.3.20.214:8888/gxq/Meiqia/3.4.9/Meiqia.zip","sha1":"ea1faef52fd827abfe27bf97fecfee541a9a98fd"}}

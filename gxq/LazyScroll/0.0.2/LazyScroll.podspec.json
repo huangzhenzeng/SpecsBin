@@ -1,0 +1,1 @@
+{"name":"LazyScroll","version":"0.0.2","summary":"LazyScroll","description":"LazyScroll","homepage":"LazyScroll","license":"MIT","authors":"dave.huang@jinfuzi.com","platforms":{"ios":"8.0"},"ios":{"vendored_frameworks":"LazyScroll.framework"},"source":{"http":"http://10.3.20.214:8888/gxq/LazyScroll/0.0.2/LazyScroll.zip","sha1":"ce69e37dbeffaafc985e57de483e10f4c686bb8a"}}
