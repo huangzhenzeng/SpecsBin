@@ -1,0 +1,1 @@
+{"name":"MJRefresh","version":"3.2.3","summary":"MJRefresh","description":"MJRefresh","homepage":"MJRefresh","license":"MIT","authors":"dave.huang@jinfuzi.com","platforms":{"ios":"8.0"},"ios":{"vendored_frameworks":"MJRefresh.framework"},"source":{"http":"http://10.3.20.214:8888/gxq/MJRefresh/3.2.3/MJRefresh.zip","sha1":"887242251c9c5049683a50849b94f5ba073a45af"}}
